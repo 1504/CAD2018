@@ -1,3 +1,0 @@
-wire holes
-main batt cable 8mm
-talon output 4mm
